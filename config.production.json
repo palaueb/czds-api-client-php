@@ -1,0 +1,7 @@
+{
+  "icann.account.username": "your@email.com",
+  "icann.account.password": "realbigandcomplexpasswordwithnumbersambsymbols",
+  "authentication.base.url": "https://account-api.icann.org",
+  "czds.base.url": "https://czds-api.icann.org",
+  "working.directory": "./zones/30-01-2019"
+}

@@ -1,0 +1,7 @@
+{
+  "icann.account.username": "your@email.com",
+  "icann.account.password": "Testingacountpassword",
+  "authentication.base.url": "https://account-api-test.icann.org",
+  "czds.base.url": "https://czds-api-test.icann.org",
+  "working.directory": "./30-01-2019"
+}
